@@ -118,12 +118,12 @@ Resolved problems:
     error messages in the Android Logcat after deploying the game to my mobile device. 
     These errors pertain to memory allocation but no problems have been discovered during gameplay.
 
-##Free assets list:
+## Free assets list:
 - https://assetstore.unity.com/packages/3d/props/exterior/simple-buoy-4734
 - https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153
 - https://assetstore.unity.com/packages/3d/props/exterior/street-lamps-165658
 
-##References
+## References
 Various tutorials were consulted during the implementation:
 - https://www.youtube.com/watch?v=UjkSFoLxesw
 - https://www.youtube.com/watch?v=_yR9FL4LXGE
@@ -132,5 +132,5 @@ Various tutorials were consulted during the implementation:
 - https://youtu.be/qQLvcS9FxnY?si=ZWnYeew8y3e1cIYL
 - https://www.youtube.com/watch?v=zd75Jq37R60
  
-##Video Demonstration: 
+## Video Demonstration: 
 https://youtu.be/U7qMJANZk7A
