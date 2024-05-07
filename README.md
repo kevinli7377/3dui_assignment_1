@@ -1,20 +1,29 @@
 # Creature Feature
 
 Name: Kevin Li
+
 UNI: kl3285
+
 Date of submission: February 19, 2024
 
 Computer platform: macOS (Sonoma 14.1.1), Macbook Pro 14-in. (2021), Apple M1 Max, 32 GB RAM
+
 Unity version: 2022.3.18f1
+
 Mobile platform: Samsung One UI 6.0, Android 14, Samsung Galaxy S23 Ultra
 
-##Project description: 
+## Project description: 
 
 The project fully implements ALL mandatory features outlined in the project requirements. 
-All code is in 'Scripts' folder. 
-All animations are in 'Animation' folder.
-All materials are in 'Material' folder.
-All prefabs are in 'Prefab' folder.
+
+- All code is in 'Scripts' folder. 
+
+- All animations are in 'Animation' folder.
+
+- All materials are in 'Material' folder.
+
+- All prefabs are in 'Prefab' folder.
+
 
 The scene is 'MainScene' in 'Scene' folder.
 
